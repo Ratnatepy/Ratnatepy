@@ -1,5 +1,5 @@
 <h1 align="center">Heyoo 👋, I'm Tepy.</h1>
-<h3 align="center">Currently is a Data Science 3nd-year student - AI & Machine Learning.</h3>
+<h3 align="center">Currently is a Data Science 4th-year student - AI & Machine Learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif?cid=790b7611t903xt56kc4egiwekumhbr9345d86bhefovykt1u&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tepy&label=Profile_views&color=0e75b6&style=flat" alt="tepy" /> </p>
