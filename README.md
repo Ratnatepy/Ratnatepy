@@ -1,33 +1,66 @@
-<h1 align="center">Heyoo 👋, I'm Tepy</h1>
-<h3 align="center">4th-year Engineering student majoring in Data Science, specializing in AI and Machine Learning</h3>
+# 👋 Hello, I'm Tepy
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif?cid=790b7611t903xt56kc4egiwekumhbr9345d86bhefovykt1u&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+🎓 **4th-year Engineering Student majoring in Data Science**  
+📍 Based in Phnom Penh, Cambodia | 📫 Email: bunratnatepy@gmail.com
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tepy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+---
 
-- 🔭 Currently working on a Regression project  
-- 🌱 Learning Data Analytics and fundamentals of Machine Learning  
-- 💬 Feel free to ask me about Python  
-- 📫 Reach me at **bunratnatepy@gmail.com**
+## 👨‍💻 About Me
+I am a passionate and dedicated Data Science student at the Institute of Technology of Cambodia (ITC).  
+I approach every challenge with genuine curiosity and a commitment to continuous growth.  
+Through my academic journey, internship at the Ministry of Post and Telecommunications, and hands-on projects, I have gained experience in preparing, analyzing, and modeling data to uncover insights and drive informed decision-making.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.facebook.com/buntan.tepy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-</p>
+I believe in applying data responsibly to solve real-world problems and value collaboration and feedback as key drivers of learning and innovation.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Your tools logos here -->
-</p>
+---
 
-<h3 align="left">My GitHub Stats:</h3>
+## 🔥 What I'm Currently Working On
+- Advancing my skills in **Data Visualization** and **Machine Learning fundamentals**
+- Exploring **Web Development** using **Streamlit** for Data Science applications
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tepy&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tepy&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+## 🛠️ Skills
+**Programming:** Python | R | SQL | Dart  
+**Data Analytics:** Power BI | Streamlit | Seaborn | Pandas  
+**Machine Learning:** Scikit-learn | Predictive Modeling | Statistical Analysis  
+**Other Skills:** Data Visualization | Critical Thinking | Problem Solving | Communication | Team Collaboration
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tepy" alt="GitHub Streak" /></p>
+---
+
+## 🚀 Internship Experience
+**Ministry of Post and Telecommunications (July 2024 – September 2024)**  
+- Designed and implemented an interactive dashboard for monitoring telecommunication indicators  
+- Provided real-time performance insights to support data-informed decision-making
+
+---
+
+## 📚 Academic Projects
+- 🎯 **Student Performance Prediction:** Built a linear regression model to predict academic outcomes
+- 🎯 **Loan Default Risk Prediction:** Designed a machine learning model with 88.37% accuracy
+- 🎯 **Disease Prediction Tool:** Developed a predictive health application using EDA and machine learning models
+- 🎯 **HR Management System:** Built a database system to automate HR processes for a financial institution
+
+---
+
+## 🏆 Achievements & Training
+- 📜 **Internship Completion Certificate** – Ministry of Post and Telecommunications (2024)
+- 📜 **Certificate of Completion** – UNESCO UNITWIN Data Science Camp (2023)
+- 📜 **Power BI Advanced Training** – Global Super Store Dashboard Project (2024)
+- 🎨 Volunteer roles at **JCI Cambodia WE Act Projects**, **Online Korean Camp**, and **Education USA Fair**
+- 🏅 First Aspiration Competition participant hosted by Ministry of Education, Youth, and Sport
+
+---
+
+## 🌐 Languages
+- Khmer: Native
+- English: Fluent
+- French: Moderate
+- Japanese: Moderate
+
+---
+
+## 📫 Let's Connect!
+- **Email:** [bunratnatepy@gmail.com](mailto:bunratnatepy@gmail.com)
+
+---
