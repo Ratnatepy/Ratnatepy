@@ -5,7 +5,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 I am a passionate and dedicated Data Science student at the Institute of Technology of Cambodia (ITC).  
 I approach every challenge with genuine curiosity and a commitment to continuous growth.  
 Through my academic journey, internship at the Ministry of Post and Telecommunications, and hands-on projects, I have gained experience in preparing, analyzing, and modeling data to uncover insights and drive informed decision-making.
@@ -14,7 +14,7 @@ I believe in applying data responsibly to solve real-world problems and value co
 
 ---
 
-## 🔥 What I'm Currently Working On
+##  What I'm Currently Working On
 - Advancing my skills in **Data Visualization** and **Machine Learning fundamentals**
 - Exploring **Web Development** using **Streamlit** for Data Science applications
 
