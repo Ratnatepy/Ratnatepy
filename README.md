@@ -43,7 +43,7 @@ Throughout my journey, I’ve had the opportunity to explore different areas suc
 
 ## Skills
 
-- **Languages**: Python, R, SQL, Dart  
+- **Languages**: Python, R, SQL
 - **Tools**: Power BI, TensorFlow, OpenCV, Arduino, Streamlit  
 - **Concepts**: Machine Learning, Data Visualization, Predictive Modeling, Responsible AI  
 
