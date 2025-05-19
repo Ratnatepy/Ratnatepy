@@ -1,66 +1,93 @@
-# 👋 Hello, I'm Tepy
+<h1 align="center">✨ Hello, I'm Bun Ratnatepy ✨</h1>
 
-🎓 **4th-year Engineering Student majoring in Data Science**  
-📍 Based in Phnom Penh, Cambodia | 📫 Email: bunratnatepy@gmail.com
+<p align="center">
+  🌱 Final-Year Data Science Student | 📊 Passionate about AI & Analytics | 🤝 Open to Collaboration
+</p>
 
----
-
-##  About Me
-I am a passionate and dedicated Data Science student at the Institute of Technology of Cambodia (ITC).  
-I approach every challenge with genuine curiosity and a commitment to continuous growth.  
-Through my academic journey, internship at the Ministry of Post and Telecommunications, and hands-on projects, I have gained experience in preparing, analyzing, and modeling data to uncover insights and drive informed decision-making.
-
-I believe in applying data responsibly to solve real-world problems and value collaboration and feedback as key drivers of learning and innovation.
+<p align="center">
+  <a href="https://ratnatepy.github.io/Portfolio"><strong>🌐 Portfolio</strong></a> •
+  <a href="https://www.linkedin.com/in/bun-ratnatepy-5859342b6"><strong>🔗 LinkedIn</strong></a> •
+  <a href="mailto:bunratnatepy@gmail.com"><strong>📬 Email</strong></a>
+</p>
 
 ---
 
-##  What I'm Currently Working On
-- Advancing my skills in **Data Visualization** and **Machine Learning fundamentals**
-- Exploring **Web Development** using **Streamlit** for Data Science applications
+## 👩 About Me
+
+I'm a curious and driven data science student from Cambodia 🇰🇭 who believes in the power of **data for good**. Whether it’s predicting student success, building real-time dashboards, or applying deep learning to public safety — I thrive on challenges that make a meaningful difference.
+
+Throughout my journey, I’ve gained hands-on experience through internships, academic research, and hackathons — always balancing technical depth with empathy, ethics, and collaboration.
+
+> 💡 _“Technology should be responsible, human-centered, and purposeful.”_
 
 ---
 
-## 🛠️ Skills
-**Programming:** Python | R | SQL | Dart  
-**Data Analytics:** Power BI | Streamlit | Seaborn | Pandas  
-**Machine Learning:** Scikit-learn | Predictive Modeling | Statistical Analysis  
-**Other Skills:** Data Visualization | Critical Thinking | Problem Solving | Communication | Team Collaboration
+## 🚀 Projects That Inspire Me
+
+Here are a few projects I’ve built and loved:
+
+| 💡 Project | 🔍 What It Does | ⚙️ Tech |
+|-----------|-----------------|---------|
+| **🔬 Disease Prediction Web App** | Predicts illnesses using ML and user input | Python, Sklearn, Streamlit |
+| **🚗 Driver Drowsiness Detection** | Real-time safety alerts using ZFNet | TensorFlow, OpenCV, Arduino |
+| **📊 Telecom Dashboard** | Tracks national telecom indicators | Power BI |
+| **📈 Student Performance Predictor** | Uses regression to forecast grades | Python, Pandas |
+| **🛑 Traffic Sign Recognition** | YOLOv8 + CNN for smart driving support | PyTorch, Keras, OpenCV |
+
+🎯 **More projects & demos:** [Visit my Portfolio](https://ratnatepy.github.io/Portfolio)
 
 ---
 
-## 🚀 Internship Experience
-**Ministry of Post and Telecommunications (July 2024 – September 2024)**  
-- Designed and implemented an interactive dashboard for monitoring telecommunication indicators  
-- Provided real-time performance insights to support data-informed decision-making
+## 🧠 My Toolbox
+
+### 💻 Languages & Frameworks
+`Python` • `R` • `SQL` • `Power BI` • `TensorFlow` • `PyTorch` • `Scikit-learn` • `Keras` • `Flutter (Dart)`
+
+### 📊 Concepts
+`Machine Learning` • `Data Analytics` • `Statistical Modeling` • `Deep Learning` • `Data Visualization`
+
+### 🔧 Tools
+`Jupyter` • `OpenCV` • `Git & GitHub` • `Power Query` • `Arduino` • `Hadoop`
 
 ---
 
-## 📚 Academic Projects
-- 🎯 **Student Performance Prediction:** Built a linear regression model to predict academic outcomes
-- 🎯 **Loan Default Risk Prediction:** Designed a machine learning model with 88.37% accuracy
-- 🎯 **Disease Prediction Tool:** Developed a predictive health application using EDA and machine learning models
-- 🎯 **HR Management System:** Built a database system to automate HR processes for a financial institution
+## 🤝 Let’s Connect & Collaborate
+
+I love working with people who are passionate, creative, and solution-focused. If you’re working on:
+
+- AI for education or healthcare 💙  
+- Ethical and transparent machine learning 🌍  
+- Social impact and community tech 🧠
+
+…let’s connect! I’m open to **remote collaborations**, **internships**, or **research opportunities**.
 
 ---
 
-## 🏆 Achievements & Training
-- 📜 **Internship Completion Certificate** – Ministry of Post and Telecommunications (2024)
-- 📜 **Certificate of Completion** – UNESCO UNITWIN Data Science Camp (2023)
-- 📜 **Power BI Advanced Training** – Global Super Store Dashboard Project (2024)
-- 🎨 Volunteer roles at **JCI Cambodia WE Act Projects**, **Online Korean Camp**, and **Education USA Fair**
-- 🏅 First Aspiration Competition participant hosted by Ministry of Education, Youth, and Sport
+## 📌 Currently Exploring
+
+- 🤖 AI Ethics & Explainability  
+- 📈 Business Intelligence for Decision-Making  
+- 💬 NLP & Text Mining  
+- 🌐 Real-Time Data Engineering  
+- 🧠 Cognitive AI
 
 ---
 
-## 🌐 Languages
-- Khmer: Native
-- English: Fluent
-- French: Moderate
-- Japanese: Moderate
+## 🌟 Fun Facts
+
+- 🎤 Hosted youth training events & acted as MC for national forums  
+- 🧑‍🏫 I mentor juniors and advocate for tech empowerment in Cambodia  
+- 🥇 Participated in UNESCO & Korean-sponsored Data Science camps  
+- 🎨 I love design, UI/UX thinking, and writing inspiring tech stories!
 
 ---
 
-## 📫 Let's Connect!
-- **Email:** [bunratnatepy@gmail.com](mailto:bunratnatepy@gmail.com)
+## 🙌 Thank You!
+
+Thank you for visiting my GitHub!  
+Let’s build responsible, inspiring, and human-centered technology together. 🌍✨
+
+> _"The best way to learn is to build, reflect, and uplift others along the way."_  
+> — Ratnatepy
 
 ---
